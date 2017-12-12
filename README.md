@@ -8,25 +8,25 @@ Want to add your model? File an issue, and we will add your model, usually withi
 
 Model | Url  | 
 :----:|:------------:|
-[Inception V1](http://arxiv.org/abs/1409.4842v1)| https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[Inception V2](http://arxiv.org/abs/1502.03167)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[Inception V3](http://arxiv.org/abs/1512.00567)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[Inception-ResNet-v2](http://arxiv.org/abs/1602.07261)| https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[ResNet V1 50](https://arxiv.org/abs/1512.03385)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[ResNet V1 101](https://arxiv.org/abs/1512.03385)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[ResNet V1 152](https://arxiv.org/abs/1512.03385)| https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[ResNet V2 50](https://arxiv.org/abs/1603.05027) | https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[ResNet V2 101](https://arxiv.org/abs/1603.05027)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[ResNet V2 152](https://arxiv.org/abs/1603.05027) | https://github.com/tensorflow/models/tree/master/slim#Pretrained 
-[ResNet V2 200](https://arxiv.org/abs/1603.05027)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[VGG 16](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[VGG 19](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[vgg_19_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_19_2016_08_28.tar.gz)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[MobileNet_v1_1.0_224](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[MobileNet_v1_0.50_160](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[MobileNet_v1_0.25_128](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[NASNet-A_Mobile_224](https://arxiv.org/abs/1707.07012)#|https://github.com/tensorflow/models/tree/master/slim#Pretrained
-[NASNet-A_Large_331](https://arxiv.org/abs/1707.07012)#|https://github.com/tensorflow/models/tree/master/slim#Pretrained
+[Inception V1](http://arxiv.org/abs/1409.4842v1)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[Inception V2](http://arxiv.org/abs/1502.03167)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[Inception V3](http://arxiv.org/abs/1512.00567)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[Inception-ResNet-v2](http://arxiv.org/abs/1602.07261)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[ResNet V1 50](https://arxiv.org/abs/1512.03385)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[ResNet V1 101](https://arxiv.org/abs/1512.03385)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[ResNet V1 152](https://arxiv.org/abs/1512.03385)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[ResNet V2 50](https://arxiv.org/abs/1603.05027) |https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[ResNet V2 101](https://arxiv.org/abs/1603.05027)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[ResNet V2 152](https://arxiv.org/abs/1603.05027) |https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[ResNet V2 200](https://arxiv.org/abs/1603.05027)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[VGG 16](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[VGG 19](http://arxiv.org/abs/1409.1556.pdf)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[vgg_19_2016_08_28.tar.gz](http://download.tensorflow.org/models/vgg_19_2016_08_28.tar.gz)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[MobileNet_v1_1.0_224](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[MobileNet_v1_0.50_160](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[MobileNet_v1_0.25_128](https://arxiv.org/pdf/1704.04861.pdf)|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[NASNet-A_Mobile_224](https://arxiv.org/abs/1707.07012)#|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+[NASNet-A_Large_331](https://arxiv.org/abs/1707.07012)#|https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
 Pretrained ConvNets for pytorch: ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc. | https://github.com/Cadene/pretrained-models.pytorch
 DenseNet | https://github.com/flyyufelix/DenseNet-Keras 
 
@@ -100,3 +100,7 @@ Wavenet | https://github.com/buriburisuri/speech-to-text-wavenet
 Model | Url  | 
 :----:|:------------:|
 DeepMoji | https://github.com/bfelbo/DeepMoji
+
+
+
+
